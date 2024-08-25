@@ -1,6 +1,6 @@
 import { FiTruck, FiTag, FiShoppingCart } from 'react-icons/fi';
 import { useAuth } from '../../hooks/auth';
-import { USER_ROLE } from '../../Utils/role'
+import { USER_ROLE } from '../../Utils/role';
 
 import { Container } from "./styles";
 import { Feature } from '../../components/Feature';
